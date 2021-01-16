@@ -1,38 +1,22 @@
-# drf-api-permissions-postgres
+# Deployment 
 <br>
 
 <hr>
 <hr>
 
-## Estimate of time needed to complete: 3 hour
+## Estimate of time needed to complete: 4 hour
 
 <br>
 
-### Start time: 4:00 pm
-### Finish time: 11:00 pm
-### Actual time needed to complete: the actual time needed (6 hours)
+### Start time: 10:00 pm
+### Finish time: 11:59 pm
+### Actual time needed to complete: the actual time needed (2 hours)
 
 <br>
+
+Heroku Link : https://diana-api-movies-app.herokuapp.com/api/v1/movies/
 
 _____________________________________________________________
 
 
-<hr>
-<hr>
-
-# Authentication & Production Server ^.^
-
-
-<hr>
-<hr>
-
-## Estimate of time needed to complete: 3 hour
-
-<br>
-
-### Start time: 2:00 pm
-### Finish time: 4:00 pm
-### Actual time needed to complete: the actual time needed (2 hours)
-
-<br>
 
